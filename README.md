@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/niraunjana/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119395610/062ca34f-44a0-40a1-ae4e-49ebd7a0eb4a)
+
+### Name: NIRAUNJANA GAYATHRI G R
+### Register Number: 212222230096
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
